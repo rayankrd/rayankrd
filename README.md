@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayan Ramazan</h1>
 <h3 align="center">Web & App Developer</h3>
-<img alt="Coding" style="max-width: 100%; display: inline-block;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474h9l18a6drrgwv92gg8kh31gjg6rjsfw2gapt6z1&rid=giphy.gif&ct=g">
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayankrd&label=Profile%20views&color=0e75b6&style=flat" alt="rayankrd" /> </p>
 
